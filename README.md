@@ -32,7 +32,3 @@ The proposal emphasizes a low-cost, low-barrier, scalable approach designed to b
 ## About the Infographic
 
 "How DNA Becomes Data" is one of multiple supplemental materials envisioned for the workshop series. It illustrates the six-step process by which a biological sample is collected, extracted, library-prepped, sequenced, digitally converted, and stored as a sequence file (FASTQ/FASTA). It was designed as a learning aid for the Week 1 module on -omics data and file formats.
-
-## Origin and intent
-
-This proposal was developed during ENGL391 (Spring 2026) as part of coursework on technical writing. The author intends to pursue submission to the CBMG Community Engagement Committee as a real proposal.
