@@ -4,6 +4,7 @@
 A proposal developed for the Community Engagement Committee of the Department of Cell Biology and Molecular Genetics (CBMG) at the University of Maryland College Park, outlining an optional, extra-curricular workshop/seminar series to bridge the skill gap between introductory bioinformatics exposure and professional application in undergraduate life science education.
 
 **Author:** Colette Rouiller
+
 **Status:** Proposal stage — drafted and finalized; intended for submission to the CBMG Community Engagement Committee.
 
 ## What's Here
